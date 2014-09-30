@@ -1,0 +1,9 @@
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+para_ignorar/
+umArquivo - Cópia.txt
+ - Cópia.gitignore
+Gruntfile - Cópia.js
